@@ -1,0 +1,7 @@
+{
+  "prompt": "A Renaissance-era marble workshop with two sculptors sitting facing each other. The left sculptor chisels a marble statue of the right sculptor, while that marble statue is itself chiseling a statue of the left sculptor. Both human and marble figures caught mid-action in perfect symmetry, each creating the other in an endless loop. Marble dust in shafted sunlight, classical columns, sculpting tools scattered on floor. Photorealistic, no text, no symbols.",
+  "model": "Google Imagen via Gemini",
+  "concept": "Bootstrap Paradox / Self-Supervised Learning",
+  "paradox_name": "Creation Paradox (Bootstrap Paradox)",
+  "paradox_explanation": "Two sculptors each create the other in an endless loop with no discernible starting point, mirroring self-supervised learning where a model generates its own training signal in a circular dependency."
+}

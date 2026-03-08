@@ -1,0 +1,6 @@
+{
+  "prompt": "A Renaissance-era marble workshop with two sculptors sitting facing each other. The left sculptor chisels a marble statue of the right sculptor, while that marble statue is itself chiseling a statue of the left sculptor. Both human and marble figures caught mid-action in perfect symmetry, each creating the other in an endless loop. Marble dust in shafted sunlight, classical columns, sculpting tools on floor. Photorealistic, no text, no symbols.",
+  "model": "Google Imagen via Gemini",
+  "paradox": "Creation Paradox (Bootstrap Paradox) \u2014 two sculptors each create the other in an endless loop with no discernible origin or starting point.",
+  "visual_logic": "The left human sculptor carves a marble statue of the right sculptor, while that very marble statue simultaneously carves a statue of the left sculptor, making it impossible to determine who created whom first."
+}
